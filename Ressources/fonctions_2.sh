@@ -12,6 +12,8 @@ cat ./Ressources/Fonctions/rm
 cat ./Ressources/Blank
 cat ./Ressources/Fonctions/cp
 cat ./Ressources/Blank
+cat ./Ressources/Fonctions/cat
+cat ./Ressources/Blank
 cat ./Ressources/Fonctions/mv
 cat ./Ressources/Blank
 cat ./Ressources/Fonctions/man

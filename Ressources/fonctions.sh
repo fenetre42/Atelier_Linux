@@ -17,10 +17,10 @@ cat ./Ressources/Blank
 cat ./Ressources/Fonctions/rm
 read a
 cat ./Ressources/Blank
-cat ./Ressources/Fonctions/cd
+cat ./Ressources/Fonctions/cp
 read a
 cat ./Ressources/Blank
-cat ./Ressources/Fonctions/cp
+cat ./Ressources/Fonctions/cat
 read a
 cat ./Ressources/Blank
 cat ./Ressources/Fonctions/mv
