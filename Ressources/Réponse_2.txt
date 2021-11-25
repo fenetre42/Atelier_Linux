@@ -1,0 +1,18 @@
+Réponse :
+
+Les principales distributions de Linux sont :
+
+	Debian, composé à 100% par des logiciels libres
+	->	Ubuntu, conçu pour les ordinateurs individuels, serveurs et objets connectés
+		->	Linux Mint, conçu pour les ordinateurs individuels
+	->	TAILS, conçue pour la sécurité individuelle ("The Amnesic Incognito Live System")
+
+	ArchLinux, conçu pour rester la plus simple possible
+	
+	Kali Linux, conçu pour la sécurité informatique et le hacking éthique
+
+	CentOS, conçu pour les serveurs (environ 20% des serveurs webs)  et pour les postes de travail
+
+	RedHat Linux, conçu pour les serveurs d'entreprise
+
+Ainsi qu'un nombre infini d'autres distributions, puisque chacune et chacun peut se faire son propre système d'exploitation basé sur le noyau Linux...

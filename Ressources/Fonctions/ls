@@ -1,0 +1,5 @@
+	- ls ("list")
+	Cette commande vous permet de voir le contenu du dossier dans lequel vous êtes actuellement.	
+		ls -R énumérera également tous les fichiers dans les sous-dossiers
+		ls -a affichera les fichiers cachés
+		ls -al listera les fichiers et les dossiers avec des informations détaillées comme les autorisations, la taille, le propriétaire, etc.

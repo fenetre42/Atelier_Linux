@@ -1,0 +1,3 @@
+	- rm ("remove")
+	Cette commande, à manipuler avec précautions, vous permet de supprimer des fichiers.
+		rm -r vous permet de supprimer des dossiers.

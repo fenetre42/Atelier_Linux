@@ -1,0 +1,3 @@
+	- cat ("abréviation de concatenate")
+	Cette commande vous permet d'afficher le contenu d'un fichier, de concatener le contenu de plusieurs fichiers (les coller à la suite)
+		cat nomDeFichier1 nomDeFichier2>nomDeFichier3 

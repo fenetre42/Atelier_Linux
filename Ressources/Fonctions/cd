@@ -1,0 +1,5 @@
+	- cd ("Change Directory")
+	Elle est utilisée pour se déplacer d'un dossier à un autre.
+		cd .. (avec deux points) pour se déplacer d’un dossier vers le haut
+		cd pour aller directement au dossier principal (home)
+		cd- (avec un tiret) pour passer à votre dossier précédent

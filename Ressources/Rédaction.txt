@@ -1,0 +1,7 @@
+C'est le moment de passer à l'action, avec l'aide des commandes données, rédigez une (très) petite histoire en plusieurs fichiers différents qui seront les chapitres.
+
+Pour cela, vous utiliserez l'éditeur de texte "vim", que vous installerez en entrant "sudo apt install vim" dans votre terminal.
+
+Le terminal vous demandera alors le mot de passe administrateur, ici, c'est celui entré lors de la connexion.
+
+Une fois vim installé, vous pouvez le lancer en entrant "vim nomdufichier", soit pour créer un nouveau fichier soit pour éditer un fichier existant (selon si le nom renseigné existe ou non).

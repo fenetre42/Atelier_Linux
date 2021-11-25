@@ -1,0 +1,1 @@
+Réponse : Le noyau Linux a été créé en 1991 par Linus Torvald. Il est utilisé par plusieurs systèmes d'exploitation, notamment Linux et Android !

@@ -1,0 +1,9 @@
+Le langage que nous allons aborder s'appelle le "Bash", c'est le langage utilisé par les terminaux des systèmes d'exploitation Linux et Mac.
+
+Le Bash est un shell, c'est-à-dire un interpréteur de commandes, écrit pour le projet GNU en 1989. 
+
+A l'époque où les interfaces graphiques n'existaient pas (Bureau, fenêtres de logiciels, images...), ces commandes étaient la base pour naviguer sur l'ordinateur.
+
+Si un langage de programmation permet de dire à un processeur ce qu’il doit faire, un interpréteur de commandes permet de dire à un système d’exploitation, un service ou à une application ce qu’ils doivent faire. Cette nuance permet aux anglo-saxons de distinguer les notions de programming lorsqu’il s’agit d’écrire un code pour créer une application et de scripting lorsqu’il s’agit de programmer un système d’exploitation, un service ou une application. 
+
+Le jeu d'instructions de Bash est donc spécialisé afin d'utiliser des systèmes Unix. 

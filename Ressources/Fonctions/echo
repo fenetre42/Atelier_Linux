@@ -1,0 +1,4 @@
+	- echo
+	Cette commande est utilisée pour déplacer certaines données dans un fichier. 
+	Par exemple, si vous voulez ajouter le texte « Bonjour, je suis William » dans un fichier appelé Prénom.txt, vous devez taper 
+		echo Bonjour, je suis William >> Prénom.txt

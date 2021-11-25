@@ -1,0 +1,2 @@
+	- sudo ("SuperUser Do")
+	Cette commande, à entrer avant une autre commande, vous sert à utiliser les droits d'administration.
