@@ -10,8 +10,6 @@ cat ./Ressources/Fonctions/chmod
 cat ./Ressources/Blank
 cat ./Ressources/Fonctions/rm
 cat ./Ressources/Blank
-cat ./Ressources/Fonctions/cd
-cat ./Ressources/Blank
 cat ./Ressources/Fonctions/cp
 cat ./Ressources/Blank
 cat ./Ressources/Fonctions/mv
